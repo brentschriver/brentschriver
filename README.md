@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brentschriver
-- 👀 I’m interested in providing opportunities to under-represented communities within large cities through quality(and modern) education.
+- 👀 I’m interested in creating things.
 - 🌱 I’m currently learning the different tools that can make the life of a Data Scientist easier.
-- 💞️ I’m looking to collaborate on video games, educational apps, or anything that can help develop struggling communities.
+- 💞️ I’m looking to learn more about Github
 - 📫 How to reach me brent.schriver@gmail.com
 
 <!---
