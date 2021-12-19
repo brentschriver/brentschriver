@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brentschriver
 - 👀 I’m interested in creating things.
-- 🌱 I’m currently learning the different tools that can make the life of a Data Scientist easier.
-- 💞️ I’m looking to learn more about Github
+- 🌱 I’m currently learning regression modeling.
+- 💞️ I’m looking to learn more about Seaborn
 - 📫 How to reach me brent.schriver@gmail.com
 
 <!---
