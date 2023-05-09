@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brentschriver
 - 👀 I’m interested in creating things.
-- 🌱 I’m currently learning regression modeling.
-- 💞️ I’m looking to learn more about Seaborn
+- 🌱 I’m currently learning computer vision with Python.
+- 💞️ I’m looking to learn more about TensorFlow
 - 📫 How to reach me brent.schriver@gmail.com
 
 <!---
